@@ -1,1 +1,2 @@
-# hodgekin-huxley
+# Hodgekin Huxley
+The Hodgkin–Huxley model, or conductance-based model, is a mathematical model that describes how action potentials in neurons are initiated and propagated. It is a set of nonlinear differential equations that approximates the electrical characteristics of excitable cells such as neurons and cardiac myocytes. It is a continuous-time dynamical system. The code provided here provides an initial set of salt concentration in the neuronal environment, and continuously solves the ordinary differential equations laid out in the HH model to predict the evolution of the neuron. This code captures the time-varying intercellular potential corresponding to an action potential.
